@@ -1,14 +1,14 @@
-function main(numOne, numTwo) {
+function main(numOne, numTwo){
 
     var quotient;
     if(numTwo === 0){
-        quotient = 'Divide by 0! Cannot divide by zero!';
+       quotient = 'Divide by 0! Cannot divide by zero!';
     } else {
-    // Only change code below this line
+    // only change code below this line
     var numOne;
-    var numTwo;
+    var numTwo; 
     quotient = numOne / numTwo;
-    // Only change code above this line
+    // only change code above this line
     }
 
     return quotient;
